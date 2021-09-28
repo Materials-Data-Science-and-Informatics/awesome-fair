@@ -44,13 +44,13 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 
 [AiiDA](https://www.aiida.net/) Automated Interactive Infrastructure and Database for Computational Science (AiiDA) is an open-source Python infrastructure to help researchers with automating, managing, persisting, sharing and reproducing the complex workflows associated with modern computational science and all associated data. Fully automated provenance tracking, but manual and semi automatic also possible.
 
-[DataLad](https://www.datalad.org/) A free and open-source distributed data management system for everyone. based on git-annex with manual to automatic provenance tracking.
+[DataLad](https://www.datalad.org/) A free and open-source distributed data management system for everyone. It is based on git-annex with manual to automatic provenance tracking.
 
 ### Data management
 
 ### Metadata management
 
-### Setup a your own Repository
+### Your own repository setup
 
 [Invenio](https://invenio-software.org/) Open source customizable software to setup large scale digital repositories, library systems and data repositories
 

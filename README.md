@@ -28,7 +28,7 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 
 [JSON LD Playground](https://json-ld.org/playground/)
 
-## Finding Dataset and software
+## Finding datasets and software
 
 [OpenAIRE explorer](https://explore.openaire.eu/) Search through the metadata indexed by openaire
 

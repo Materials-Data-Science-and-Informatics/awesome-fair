@@ -4,29 +4,30 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 ## Resources about the FAIR principles
 
 ## FAIR Digital Object and related projects
-[FAIR Digital Objects Forum](https://fairdo.org/)
+[FAIR Digital Objects Forum](https://fairdo.org/) General platform for discussions on the advancement and development of FAIR Digital Objects
 
 [FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications)
 
-[FAIR Digital Object Framework](https://fairdigitalobjectframework.org/)
+[FAIR Digital Object Framework](https://fairdigitalobjectframework.org/) A WIP specification for an FDO infrastructure based on linked data / RDF
 
-[RO Crate](https://www.researchobject.org/ro-crate/)
+[RO Crate](https://www.researchobject.org/ro-crate/) Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific datasets
 
 ## Organizations and Communities
-[Research Data Alliance](https://www.rd-alliance.org/)
+[Research Data Alliance](https://www.rd-alliance.org/) International organization and communication platform for establishing standards and recommendations concerning research data publication
 
-[FAIRsharing](https://fairsharing.org/)
+[FAIRsharing](https://fairsharing.org/) A curated resource on data and metadata standards, inter-related to databases and data policies. 
 
-[The Turing Way](https://the-turing-way.netlify.app/welcome.html)
+[The Turing Way](https://the-turing-way.netlify.app/welcome.html) Handbook and community for reproducible, ethical and collaborative data science.
+
 [EuDat](https://www.eudat.eu/)
 
 ## (Meta)data formats and standards
 
-[JSON Schema](https://json-schema.org/)
+[JSON Schema](https://json-schema.org/) Standard for the description of structural constraints in order to do validation of JSON objects
 
-[Schema.org](https://schema.org/)
+[Schema.org](https://schema.org/) Well-established and industry-accepted vocabulary providing semantics for common entities like Person, Organization, Dataset, etc.
 
-[JSON LD Playground](https://json-ld.org/playground/)
+[JSON LD Playground](https://json-ld.org/playground/) Convert JSON-LD data between various representations
 
 ## Finding datasets and software
 

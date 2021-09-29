@@ -64,7 +64,8 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 ### FAIR assessment
 
 [F-uji](https://www.f-uji.net/) An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR
-[FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) A FAIR assessment tool from FAIRsharing [code](https://github.com/FAIRMetrics/Metrics)
+
+[FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics)
 
 ## Awesome meta data dumps/sources of publications
 

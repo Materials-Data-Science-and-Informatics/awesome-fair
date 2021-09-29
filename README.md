@@ -1,7 +1,7 @@
 # awesome-fair-data
 A curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable.
 
-## Resources about the FAIR princples
+## Resources about the FAIR principles
 
 ## FAIR Digital Object and related projects
 [FAIR Digital Objects Forum](https://fairdo.org/)

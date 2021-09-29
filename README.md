@@ -6,7 +6,7 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 ## FAIR Digital Object and related projects
 [FAIR Digital Objects Forum](https://fairdo.org/) General platform for discussions on the advancement and development of FAIR Digital Objects
 
-[FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications)
+[FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications) Relevant publications (concept papers and specs) by RDA working groups on FDOs
 
 [FAIR Digital Object Framework](https://fairdigitalobjectframework.org/) A WIP specification for an FDO infrastructure based on linked data / RDF
 

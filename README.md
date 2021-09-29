@@ -12,6 +12,8 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 
 [RO Crate](https://www.researchobject.org/ro-crate/) Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific datasets
 
+[DONA Suggested Reading](https://www.dona.net/suggested-reading-documents) The history of the Digital Object Architecture (DOA) back into the 80s
+
 ## Organizations and Communities
 [Research Data Alliance](https://www.rd-alliance.org/) International organization and communication platform for establishing standards and recommendations concerning research data publication
 

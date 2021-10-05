@@ -3,7 +3,7 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 
 ## Resources about the FAIR principles
 
-## FAIR Digital Object and related projects
+### FAIR Digital Object and related projects
 [FAIR Digital Objects Forum](https://fairdo.org/) General platform for discussions on the advancement and development of FAIR Digital Objects
 
 [FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications) Relevant publications (concept papers and specs) by RDA working groups on FDOs
@@ -13,6 +13,12 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 [RO Crate](https://www.researchobject.org/ro-crate/) Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific datasets
 
 [DONA Suggested Reading](https://www.dona.net/suggested-reading-documents) The history of the Digital Object Architecture (DOA) back into the 80s
+
+### FAIR assessment
+
+[F-uji](https://www.f-uji.net/) An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR
+
+[FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics)
 
 ## Organizations and Communities
 [Research Data Alliance](https://www.rd-alliance.org/) International organization and communication platform for establishing standards and recommendations concerning research data publication
@@ -30,6 +36,12 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 [Schema.org](https://schema.org/) Well-established and industry-accepted vocabulary providing semantics for common entities like Person, Organization, Dataset, etc.
 
 [JSON LD Playground](https://json-ld.org/playground/) Convert JSON-LD data between various representations
+
+## Ontology services
+[Ontobee](http://www.ontobee.org/) A linked ontology data server to support ontology term dereferencing, linkage, query and integration. 
+See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770665)
+
+[Ontology Lookup Service](https://www.ebi.ac.uk/ols/index) OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
 
 ## Finding datasets and software
 
@@ -60,12 +72,6 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 [Dataverse](https://dataverse.org/) Open source research data repository software 
 
 [EuDat B2share](https://b2share.eudat.eu/) A repository by EuDat, but the software is open source and one can setup own instances of it.
-
-### FAIR assessment
-
-[F-uji](https://www.f-uji.net/) An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR
-
-[FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics)
 
 ## Awesome meta data dumps/sources of publications
 

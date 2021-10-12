@@ -2,6 +2,11 @@
 A curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable.
 
 ## Resources about the FAIR principles
+[GO FAIR Zotero Library](https://www.zotero.org/groups/2345721/fair_data_resources/)
+
+[Cost of not having FAIR research data](https://op.europa.eu/s/sV6Z) A 2018 European Commission Cost-benefit analysis for FAIR research data (Written by PwC EU Services)
+
+[Barend Mons article in Nature 578, 491 (2020)](https://doi.org/10.1038/d41586-020-00505-7) "Invest 5% of research funds in ensuring data are reusable"
 
 ### FAIR Digital Object and related projects
 [FAIR Digital Objects Forum](https://fairdo.org/) General platform for discussions on the advancement and development of FAIR Digital Objects

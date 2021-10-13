@@ -58,6 +58,12 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 [Microsoft acadamy](https://academic.microsoft.com/home) Mircosoft acadamy search through a pid graph created by microsoft (shutdown end of 2021)
 
+## Software publications
+
+[CITATION.CFF](https://citation-file-format.github.io/) Plain text files with human- and machine-readable citation information for software (and datasets). Supported by GitHub, Zenodo, Zotero
+
+[Citable code with Zenodo & GitHub](https://guides.github.com/activities/citable-code/) Make GitHub repositories citable with Zenodo DOI
+
 ## Tools/Software for
 
 ### Provenance tracking

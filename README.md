@@ -19,7 +19,7 @@ A curated list of awesome stuff around the FAIR principles for (scientific) data
 
 [DONA Suggested Reading](https://www.dona.net/suggested-reading-documents) The history of the Digital Object Architecture (DOA) back into the 80s
 
-[DataPLANT ARC Tool Talk](NFDI ToolTalk: DataPLANT - Tools and Services to structure the Data Jungle (8 September 2021) NFDI4plants interpretation of the FDO based on GitHub repository and RO Crate
+[DataPLANT ARC Tool Talk](https://www.youtube.com/watch?v=dOMNzY5rUlE&t=2137s) NFDI4plants interpretation of the FDO based on GitHub repository and RO Crate
 
 ### FAIR assessment
 

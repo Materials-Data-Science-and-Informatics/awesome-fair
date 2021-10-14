@@ -2,6 +2,8 @@
 A curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable.
 
 ## Resources about the FAIR principles
+[The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18) This Comment in [Sci Data](https://www.nature.com/sdata/) is the first formal publication of the FAIR Principles (2016)
+
 [GO FAIR Zotero Library](https://www.zotero.org/groups/2345721/fair_data_resources/)
 
 [Cost of not having FAIR research data](https://op.europa.eu/s/sV6Z) A 2018 European Commission Cost-benefit analysis for FAIR research data (Written by PwC EU Services)

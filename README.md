@@ -73,9 +73,11 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 ### Provenance tracking
 
-* [AiiDA](https://www.aiida.net/) Automated Interactive Infrastructure and Database for Computational Science (AiiDA) is an open-source Python infrastructure to help researchers with automating, managing, persisting, sharing and reproducing the complex workflows associated with modern computational science and all associated data. Fully automated provenance tracking, but manual and semi automatic also possible.
+* [AiiDA](https://www.aiida.net/) Automated Interactive Infrastructure and Database for Computational Science (AiiDA) to automatically track provenance of complex workflows of modern computational science and all associated data, [code](https://github.com/aiidateam/aiida-core)
 
-* [DataLad](https://www.datalad.org/) A free and open-source distributed data management system for everyone. It is based on git-annex with manual to automatic provenance tracking.
+* [DataLad](https://www.datalad.org/) A free and open-source distributed data management system for everyone. It is based on git-annex with manual to automatic provenance tracking, [code](https://github.com/datalad/datalad).
+
+* [MLflow](https://mlflow.org/) Tool to track the provenance of machine learning applications, [code](https://github.com/mlflow/mlflow/).
 
 ### Data management
 
@@ -83,11 +85,11 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 ### Your own repository setup
 
-* [Invenio](https://invenio-software.org/) Open source customizable software to setup large scale digital repositories, library systems and data repositories
+* [Invenio](https://invenio-software.org/) Open source customizable software to setup large scale digital repositories, library systems and data repositories, [code](https://github.com/inveniosoftware/invenio).
 
-* [Dataverse](https://dataverse.org/) Open source research data repository software 
+* [Dataverse](https://dataverse.org/) Open source research data repository software [code](https://github.com/IQSS/dataverse).
 
-* [EuDat B2share](https://b2share.eudat.eu/) A repository by EuDat, but the software is open source and one can setup own instances of it.
+* [EuDat B2share](https://b2share.eudat.eu/) A repository by EuDat, but the software is open sourc, bases in invenio and one can setup own instances of it, [code](https://github.com/EUDAT-B2SHARE/b2share).
 
 ## Awesome meta data dumps/sources of publications
 

@@ -79,6 +79,8 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [MLflow](https://mlflow.org/) Tool to track the provenance of machine learning applications, [code](https://github.com/mlflow/mlflow/).
 
+* [CWL](https://www.commonwl.org) Domain-agnostic and community-driven open standard for description and execution of research workflows that supports provenance tracking ([CWLProv](https://github.com/common-workflow-language/cwltool/blob/main/CWLProv.rst)) in a standard-compliant way using the existing RO Crate, PROV and BagIt standards
+
 ### Data management
 
 ### Metadata management

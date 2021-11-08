@@ -1,13 +1,12 @@
 <div align="center">
-	<a href="https://github.com/Helmholtz-Metadata-Collaboration/awesome-fair-data/"><img width="726" height="492" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
+	<a href="https://github.com/Helmholtz-Metadata-Collaboration/awesome-fair-data/"><img width="363" height="246" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
 	<br>
 	<br>
 	<br>
 </div>
 
-<h1 align="center">
-	Awesome FAIR Data
-</h1>
+
+# Awesome FAIR Data
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
 </a>
@@ -18,7 +17,7 @@
 
 ## Contents
 * [Resources about the FAIR principles](#resources-about-the-fair-principles)
-    * [FAIR Digital Object and related projects ](#fdo-projects)
+    * [FAIR Digital Object and related projects](#fdo-projects)
 * [FAIR assessment](#fair-assessment)
 * [Organizations and Communities](#organizations-and-communities)
 * [(Meta)data formats and standards](#standards)
@@ -31,22 +30,22 @@
 * [Awesome meta data dumps/sources of publications](#data-dumps)
 
 ## Resources about the FAIR principles <a name="resources-about-the-fair-principles"></a>
-* [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18) - This Comment in [Sci Data](https://www.nature.com/sdata/) is the first formal publication of the FAIR Principles (2016)
+* [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18) - This Comment in [Sci Data](https://www.nature.com/sdata/) is the first formal publication of the FAIR Principles (2016).
 
-* [GO FAIR Zotero Library](https://www.zotero.org/groups/2345721/fair_data_resources/) - Nice collection of publications around the FAIR principles 
+* [GO FAIR Zotero Library](https://www.zotero.org/groups/2345721/fair_data_resources/) - Nice collection of publications around the FAIR principles.
 
-* [Cost of not having FAIR research data](https://op.europa.eu/s/sV6Z) - A 2018 European Commission Cost-benefit analysis for FAIR research data (Written by PwC EU Services)
+* [Cost of not having FAIR research data](https://op.europa.eu/s/sV6Z) - A 2018 European Commission Cost-benefit analysis for FAIR research data (Written by PwC EU Services).
 
-* [Barend Mons article in Nature 578, 491 (2020)](https://doi.org/10.1038/d41586-020-00505-7) - Proposition to invest 5% of research funds in ensuring data are reusable
+* [Barend Mons article in Nature 578, 491 (2020)](https://doi.org/10.1038/d41586-020-00505-7) - Proposition to invest 5% of research funds in ensuring data are reusable.
 
 ### FAIR Digital Object and related projects <a name="fdo-projects"></a>
-* [FAIR Digital Objects Forum](https://fairdo.org/) - General platform for discussions on the advancement and development of FAIR Digital Objects
+* [FAIR Digital Objects Forum](https://fairdo.org/) - General platform for discussions on the advancement and development of FAIR Digital Objects.
 
-* [FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications) - Relevant publications (concept papers and specs) by RDA working groups on FDOs
+* [FAIR DO publications](https://www.rd-alliance.org/group/data-fabric-ig/wiki/fair-do-publications) - Relevant publications (concept papers and specs) by RDA working groups on FDOs.
 
-* [FAIR Digital Object Framework](https://fairdigitalobjectframework.org/) - A WIP specification for an FDO infrastructure based on linked data / RDF
+* [FAIR Digital Object Framework](https://fairdigitalobjectframework.org/) - A WIP specification for an FDO infrastructure based on linked data / RDF.
 
-* [RO Crate](https://www.researchobject.org/ro-crate/) - Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific datasets
+* [RO Crate](https://www.researchobject.org/ro-crate/) - Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific. datasets
 
 * [DONA Suggested Reading](https://www.dona.net/suggested-reading-documents) - The history of the Digital Object Architecture (DOA) back into the 80s
 

@@ -74,6 +74,16 @@
 
 * [JSON LD Playground](https://json-ld.org/playground/) - Convert JSON-LD data between various representations
 
+* [Resource Description Framework (RDF)](https://www.w3.org/RDF/) - RDF is a standard model for data interchange on the Web. 
+
+* [Dublin Core Metadata Initiative Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) - Dublin Core Metadata Element Set, is a set of fifteen "core" elements for describing resources.
+
+* [Data Catalog (DCAT)](https://www.w3.org/TR/vocab-dcat-2/) - RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
+
+* [Provenance Primer (PROV)](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) - This primer document provides an accessible introduction to the PROV data model for provenance interchange on the Web.
+
+* [SKOS](https://www.w3.org/2009/08/skos-reference/skos.html) - The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Semantic Web.
+
 ## Ontology services <a name="ontology-services"></a>
 
 * [Ontobee](http://www.ontobee.org/) - A linked ontology data server to support ontology term dereferencing, linkage, query and integration. 

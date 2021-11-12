@@ -107,6 +107,10 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [Citable code with Zenodo & GitHub](https://guides.github.com/activities/citable-code/) - Make GitHub repositories citable with Zenodo DOI
 
+* [CodeMeta](https://codemeta.github.io/) CodeMeta works on providing a minimal metadata schema for science software and code, in JSON and XML to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations. 
+
+* [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
+
 ## Provenance tracking <a name="provenance-tracking"></a>
 
 * [AiiDA](https://www.aiida.net/) - Automated Interactive Infrastructure and Database for Computational Science (AiiDA) to automatically track provenance of simulation workflows and all associated data, [code](https://github.com/aiidateam/aiida-core)

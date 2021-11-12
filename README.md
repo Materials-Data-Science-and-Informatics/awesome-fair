@@ -113,6 +113,8 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
 
+* [fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
+
 ## Provenance tracking <a name="provenance-tracking"></a>
 
 * [AiiDA](https://www.aiida.net/) - Automated Interactive Infrastructure and Database for Computational Science (AiiDA) to automatically track provenance of simulation workflows and all associated data, [code](https://github.com/aiidateam/aiida-core)

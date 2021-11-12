@@ -101,15 +101,17 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [Microsoft acadamy](https://academic.microsoft.com/home) - Mircosoft acadamy search through a pid graph created by microsoft (shutdown end of 2021)
 
+* [Research Software Repository](https://research-software.nl/) - Aggregates research software from various sources with information about the problem it solves and its scientific domain.
+
 ## Software publications <a name="software-publications"></a>
 
 * [CITATION.CFF](https://citation-file-format.github.io/) - Plain text files with human- and machine-readable citation information for software (and datasets). Supported by GitHub, Zenodo, Zotero
 
 * [Citable code with Zenodo & GitHub](https://guides.github.com/activities/citable-code/) - Make GitHub repositories citable with Zenodo DOI
 
-* [CodeMeta](https://codemeta.github.io/) CodeMeta works on providing a minimal metadata schema for science software and code, in JSON and XML to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations. 
+* [CodeMeta](https://codemeta.github.io/) - CodeMeta works on providing a minimal metadata schema for science software and code, in JSON and XML to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations. 
 
-* [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
+* [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
 
 ## Provenance tracking <a name="provenance-tracking"></a>
 

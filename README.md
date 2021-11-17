@@ -146,3 +146,11 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 * [Microsoft acadamy graph](https://doi.org/10.5281/zenodo.2628216) - All the data and links from Mircosoft acadamy (shutdown end of 2021)
 
 * [Openaire graph](https://doi.org/10.5281/zenodo.4707307) - All metadata contained in the openaire graph
+
+
+## Contributing
+Contributions are welcome! :sunglasses: </br>
+If you want to contribute please read the <a href=https://github.com/Materials-Data-Science-and-Informatics/awesome-fair-data/blob/main/CONTRIBUTING.md>contribution guideline</a>.
+
+## License
+This work is licensed under the Creative Commons Zero v1.0 Universal License - [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)

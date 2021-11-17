@@ -13,7 +13,8 @@
 </div>
 </br>
 
-> A by the [Helmholtz metadata collaboration (HMC)](https://helmholtz-metadaten.de/en) curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable. The list is organized in use cases of data producers, data users, data curators and data provides.
+> A by the [Helmholtz metadata collaboration (HMC)](https://helmholtz-metadaten.de/en) curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable. The list is organized in use cases of data producers, data users, data curators and data provides. 'FAIR' is not the same as 'open', but there is overlap.
+
 
 ## Contents
 * [Resources about the FAIR principles](#resources-about-the-fair-principles)
@@ -22,13 +23,15 @@
 * [Organizations and Communities](#organizations-and-communities)
 * [Metadata formats and standards](#metadata-formats-and-standards)
 * [Ontology services](#ontology-services)
+	* [Related semantics lists](#related-semantics-lists)
 * [Finding datasets and software](#finding-datasets-and-software)
 * [Software publications](#software-publications)
 * [Provenance tracking](#provenance-tracking)
+	* [Related workflow tools lists](#related-workflow-tools-lists)
 * [Metadata management](#metadata-management)
 * [Your own repository setup](#your-own-repository-setup)
 * [Awesome meta data sources](#awesome-meta-data-sources)
-
+* [Related lists](#related-lists)
 ## Resources about the FAIR principles
 
 * [Barend Mons article in Nature 578, 491 (2020)](https://doi.org/10.1038/d41586-020-00505-7) - Proposition to invest 5% of research funds in ensuring data are reusable.
@@ -57,7 +60,7 @@
 
 * [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) - A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics).
 
-* [F-uji](https://www.f-uji.net/) - An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR.
+* [F-uji](https://www.f-uji.net/) - An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR, [code](https://github.com/pangaea-data-publisher/fuji).
 
 ## Organizations and Communities
 
@@ -93,7 +96,10 @@
 See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770665).
 
 * [Ontology Lookup Service](https://www.ebi.ac.uk/ols/index) - OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
-
+### Related semantics lists
+Also see 
+* [awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things.
+* [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) - List of projects related to Ontology engineering and Semantic Web technologies.
 ## Finding datasets and software
 
 * [Datacite commons](https://commons.datacite.org/) - Search through the metadata indexed by Datacite.
@@ -127,6 +133,11 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 * [MLflow](https://mlflow.org/) - Tool to track the provenance of machine learning applications, [code](https://github.com/mlflow/mlflow/).
 
 * [CWL](https://www.commonwl.org) - Domain-agnostic and community-driven open standard for description and execution of research workflows that supports provenance tracking ([CWLProv](https://github.com/common-workflow-language/cwltool/blob/main/CWLProv.rst)) in a standard-compliant way using the existing RO Crate, PROV and BagIt standards.
+### Related workflow tools lists
+There is overlap with these more general lists of workflow tools, but not every pipeline or workflow manager includes good provenance tracking.
+* [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.
+* [Awesome workflow engines](https://github.com/meirwah/awesome-workflow-engines) - Curated list of awesome open source workflow engines.
+* [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) - A list of existing workflow systems.
 
 ## Metadata management
 ## Your own repository setup
@@ -146,6 +157,12 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [Openaire graph](https://doi.org/10.5281/zenodo.4707307) - All metadata contained in the openaire graph.
 
+## Related lists
+Awesome lists related to several points.
+
+* [Awesome-open-climate-science](https://github.com/pangeo-data/awesome-open-climate-science) - An open science related list specific to the domain of Atmospheric, Ocean, and Climate science.
+* [Awesome-open-science-software](https://github.com/INRIA/awesome-open-science-software) - A list of open science resources and software.
+* [Awesome Curated Tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy.
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>

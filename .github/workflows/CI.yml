@@ -26,4 +26,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md
+        awesome_bot --allow-redirect README.md

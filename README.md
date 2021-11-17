@@ -141,7 +141,6 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 
 * [InvenioRDM](https://inveniosoftware.org/products/rdm/) - The turn-key research data management repository based on Invenio framework and Zenodo
 
-
 ## Awesome meta data dumps/sources of publications <a name="data-dumps"></a>
 
 * [Microsoft acadamy graph](https://doi.org/10.5281/zenodo.2628216) - All the data and links from Mircosoft acadamy (shutdown end of 2021)

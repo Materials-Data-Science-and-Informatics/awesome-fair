@@ -127,7 +127,7 @@ Also see
 
 * [fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
 
-* [HERMES]https://github.com/hermes-hmc/workflow) - A CI based workflow to create and publish software publications to well known repositories. 
+* [HERMES](https://github.com/hermes-hmc/workflow) - A CI based workflow to create and publish software publications to well known repositories. 
 
 * [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
 

@@ -1,12 +1,12 @@
 <div align="center">
-	<a href="https://github.com/Helmholtz-Metadata-Collaboration/awesome-fair-data/"><img width="363" height="246" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
+	<a href="https://github.com/Helmholtz-Metadata-Collaboration/awesome-fair/"><img width="363" height="246" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
 	<br>
 	<br>
 	<br>
 </div>
 
 
-# Awesome FAIR Data
+# Awesome FAIR
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
 </a>
@@ -173,5 +173,5 @@ Awesome lists related to several points.
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>
-If you want to contribute please read the <a href=https://github.com/Materials-Data-Science-and-Informatics/awesome-fair-data/blob/main/CONTRIBUTING.md>contribution guideline</a>.
+If you want to contribute please read the <a href=https://github.com/Materials-Data-Science-and-Informatics/awesome-fair/blob/main/CONTRIBUTING.md>contribution guideline</a>.
 

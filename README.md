@@ -56,6 +56,7 @@
 
 * [RO Crate](https://www.researchobject.org/ro-crate/) - Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific. datasets.
 
+* [PID services registry](https://pidservices.org/) - A searchable registry for PID services
 ## FAIR assessment
 
 * [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) - A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics).

@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://github.com/Helmholtz-Metadata-Collaboration/awesome-fair/"><img width="363" height="246" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
+	<a href="https://github.com/Materials-Data-Science-and-Informatics/awesome-fair/"><img width="363" height="246" src="img/awesome_fair_data_logo.png" alt="pyds"></a>
 	<br>
 	<br>
 	<br>

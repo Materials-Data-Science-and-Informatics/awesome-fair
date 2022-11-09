@@ -57,6 +57,7 @@
 * [RO Crate](https://www.researchobject.org/ro-crate/) - Pragmatic approach combining existing technologies and ontologies into a metadata standard for annotating scientific. datasets.
 
 * [PID services registry](https://pidservices.org/) - A searchable registry for PID services
+
 ## FAIR assessment
 
 * [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) - A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics).
@@ -97,6 +98,7 @@
 See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770665).
 
 * [Ontology Lookup Service](https://www.ebi.ac.uk/ols/index) - OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
+
 ### Related semantics lists
 Also see 
 * [awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things.
@@ -111,6 +113,8 @@ Also see
 
 * [OpenAIRE explorer](https://explore.openaire.eu/) - Search through the metadata indexed by openaire.
 
+* [Schole explorer](https://scholexplorer.openaire.eu/) - A data literature interlinking service (former scholix), indexes links between data and journal publications. It also provides interfaces and APIs to query the graph.
+
 * [Research Software Repository](https://research-software.nl/) - Aggregates research software from various sources with information about the problem it solves and its scientific domain.
 
 ## Software publications
@@ -124,6 +128,8 @@ Also see
 * [fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
 
 * [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
+
+* [Scholix](http://www.scholix.org/schema) - A schema for scholarly links. Implemented and deployed by several scholarly link providers.
 
 ## Provenance tracking
 

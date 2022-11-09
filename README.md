@@ -117,7 +117,7 @@ Also see
 
 * [Research Software Repository](https://research-software.nl/) - Aggregates research software from various sources with information about the problem it solves and its scientific domain.
 
-## Software publications
+## Software and software publications
 
 * [CITATION.CFF](https://citation-file-format.github.io/) - Plain text files with human- and machine-readable citation information for software (and datasets). Supported by GitHub, Zenodo, Zotero.
 
@@ -127,9 +127,14 @@ Also see
 
 * [fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
 
+* [HERMES]https://github.com/hermes-hmc/workflow) - A CI based workflow to create and publish software publications to well known repositories. 
+
 * [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
 
-* [Scholix](http://www.scholix.org/schema) - A schema for scholarly links. Implemented and deployed by several scholarly link providers.
+
+### Related research software lists
+* [awesome-research-software-registies](https://github.com/NLeSC/awesome-research-software-registries) - Awesome list for where one can register or upload research software.
+* [awesome-rse](https://github.com/hifis-net/awesome-rse) - An awesome collection of resources around research software engineering.
 
 ## Provenance tracking
 
@@ -151,7 +156,6 @@ There is overlap with these more general lists of workflow tools, but not every 
 
 * [Dataverse](https://dataverse.org/) - Open source research data repository software [code](https://github.com/IQSS/dataverse).
 
-
 * [EuDat B2share](https://b2share.eudat.eu/) - A repository by EuDat, but the software is open sourc, bases in invenio and one can setup own instances of it, [code](https://github.com/EUDAT-B2SHARE/b2share).
 
 * [Invenio](https://invenio-software.org/) - Open source customizable software to setup large scale digital repositories, library systems and data repositories, [code](https://github.com/inveniosoftware/invenio).
@@ -163,6 +167,8 @@ There is overlap with these more general lists of workflow tools, but not every 
 * [Microsoft academy graph](https://doi.org/10.5281/zenodo.2628216) - All the data and links from Mircosoft academy (shutdown end of 2021).
 
 * [Openaire graph](https://doi.org/10.5281/zenodo.4707307) - All metadata contained in the openaire graph.
+
+* [Scholix](http://www.scholix.org/schema) - A schema for scholarly links. Implemented and deployed by several scholarly link providers.
 
 ## Related lists
 Awesome lists related to several points.

@@ -25,7 +25,7 @@
 * [Ontology services](#ontology-services)
 	* [Related semantics lists](#related-semantics-lists)
 * [Finding datasets and software](#finding-datasets-and-software)
-* [Software publications](#software-publications)
+* [Software and software publications](#software-and-software-publications)
 * [Provenance tracking](#provenance-tracking)
 	* [Related workflow tools lists](#related-workflow-tools-lists)
 * [Metadata management](#metadata-management)

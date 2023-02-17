@@ -32,6 +32,8 @@
 * [Your own repository setup](#your-own-repository-setup)
 * [Awesome meta data sources](#awesome-meta-data-sources)
 * [Related lists](#related-lists)
+
+
 ## Resources about the FAIR principles
 
 * [Barend Mons article in Nature 578, 491 (2020)](https://doi.org/10.1038/d41586-020-00505-7) - Proposition to invest 5% of research funds in ensuring data are reusable.
@@ -41,6 +43,7 @@
 * [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18) - This Comment in [Sci Data](https://www.nature.com/sdata/) is the first formal publication of the FAIR Principles (2016).
 
 * [GO FAIR Zotero Library](https://www.zotero.org/groups/2345721/fair_data_resources/) - Nice collection of publications around the FAIR principles.
+
 
 ### FAIR Digital Object and related projects
 
@@ -58,11 +61,13 @@
 
 * [PID services registry](https://pidservices.org/) - A searchable registry for PID services.
 
+
 ## FAIR assessment
 
 * [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) - A FAIR assessment tool from FAIRsharing, [code](https://github.com/FAIRMetrics/Metrics).
 
 * [F-uji](https://www.f-uji.net/) - An (online) tool which can provide a FAIR score for a given PID based on a metric created by FAIRsFAIR, [code](https://github.com/pangaea-data-publisher/fuji).
+
 
 ## Organizations and Communities
 
@@ -75,6 +80,8 @@
 * [The Turing Way](https://the-turing-way.netlify.app/welcome.html) - Handbook and community for reproducible, ethical and collaborative data science.
 
 ## Metadata formats and standards
+
+* [DataCite](https://schema.datacite.org/) - Metadata schema developed by international community with increasing adoption by repositories
 
 * [Data Catalog (DCAT)](https://www.w3.org/TR/vocab-dcat-2/) - RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 
@@ -103,6 +110,7 @@ See also this [publication](https://academic.oup.com/nar/article/45/D1/D347/2770
 Also see 
 * [awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things.
 * [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) - List of projects related to Ontology engineering and Semantic Web technologies.
+
 ## Finding datasets and software
 
 * [Datacite commons](https://commons.datacite.org/) - Search through the metadata indexed by Datacite.
@@ -152,6 +160,7 @@ There is overlap with these more general lists of workflow tools, but not every 
 * [Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) - A list of existing workflow systems.
 
 ## Metadata management
+
 ## Your own repository setup
 
 * [Dataverse](https://dataverse.org/) - Open source research data repository software [code](https://github.com/IQSS/dataverse).
@@ -169,6 +178,8 @@ There is overlap with these more general lists of workflow tools, but not every 
 * [Openaire graph](https://doi.org/10.5281/zenodo.4707307) - All metadata contained in the openaire graph.
 
 * [Scholix](http://www.scholix.org/schema) - A schema for scholarly links. Implemented and deployed by several scholarly link providers.
+
+* [CrossRef](https://www.crossref.org/) - Organization building connections between related entities, building a queryable graph.
 
 ## Related lists
 Awesome lists related to several points.

@@ -184,6 +184,8 @@ There is overlap with these more general lists of workflow tools, but not every 
 ## Related lists
 Awesome lists related to several points.
 
+* [awesome-rse](https://github.com/hifis-net/awesome-rse) - An awesome list by HIFIS collecting information about research software engineering, touching FAIRness and sustainability
+
 * [Awesome-open-climate-science](https://github.com/pangeo-data/awesome-open-climate-science) - An open science related list specific to the domain of Atmospheric, Ocean, and Climate science.
 * [Awesome-open-science-software](https://github.com/INRIA/awesome-open-science-software) - A list of open science resources and software.
 * [Awesome Curated Tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy.

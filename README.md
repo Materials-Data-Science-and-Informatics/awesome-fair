@@ -153,6 +153,9 @@ Also see
 * [MLflow](https://mlflow.org/) - Tool to track the provenance of machine learning applications, [code](https://github.com/mlflow/mlflow/).
 
 * [CWL](https://www.commonwl.org) - Domain-agnostic and community-driven open standard for description and execution of research workflows that supports provenance tracking ([CWLProv](https://github.com/common-workflow-language/cwltool/blob/main/CWLProv.rst)) in a standard-compliant way using the existing RO Crate, PROV and BagIt standards.
+
+* [PROV-O Primer](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) - An introduction to the data model of [Provenance Ontlogy (PROV-O)](https://www.w3.org/TR/2013/REC-prov-o-20130430/)
+
 ### Related workflow tools lists
 There is overlap with these more general lists of workflow tools, but not every pipeline or workflow manager includes good provenance tracking.
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.

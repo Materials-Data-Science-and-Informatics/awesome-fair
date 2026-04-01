@@ -13,7 +13,7 @@
 </div>
 </br>
 
-> A by the [Helmholtz metadata collaboration (HMC)](https://helmholtz-metadaten.de/en) curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable. The list is organized in use cases of data producers, data users, data curators and data provides. 'FAIR' is not the same as 'open', but there is overlap.
+> A by the [Helmholtz metadata collaboration (HMC)](https://helmholtz-metadaten.de/en) - Hub Information & FAIR data commons at FZJ - curated list of awesome stuff around the FAIR principles for (scientific) data, i.e that data is findable, accessable, interoperable and re-usable. The list is organized in use cases of data producers, data users, data curators and data provides. 'FAIR' is not the same as 'open', but there is overlap.
 
 
 ## Contents
@@ -91,13 +91,21 @@
 
 * [JSON Schema](https://json-schema.org/) - Standard for the description of structural constraints in order to do validation of JSON objects.
 
-* [Provenance Primer (PROV)](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) - This primer document provides an accessible introduction to the PROV data model for provenance interchange on the Web.
+* [PROV-O](https://www.w3.org/TR/prov-o/) - Widely used ontolgy for provenance documentation.
 
 * [Resource Description Framework (RDF)](https://www.w3.org/RDF/) - RDF is a standard model for data interchange on the Web. 
 
 * [Schema.org](https://schema.org/) - Well-established and industry-accepted vocabulary providing semantics for common entities like Person, Organization, Dataset, etc.
 
 * [SKOS](https://www.w3.org/2009/08/skos-reference/skos.html) - The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Semantic Web.
+
+* [HDO - Helmholtz Digitization Ontology](https://purls.helmholtz-metadaten.de/hob/HDO_00000000) - HMC developed ontology according to OBO principles with covering concept of digital resources and data management.
+
+* [ORCID](https://orcid.org/) - Persistent identifiers for people. 
+
+* [ROR](https://ror.org) - Persistent identifiers for organizations. 
+
+* [PIDA](https://purls.helmholtz-metadaten.de/) - Helmholtz developed and maintained PURL service to generate ontology IRIs. The service has a health checker and automatic notification for all registered namespaces.
 
 ## Ontology services
 

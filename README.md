@@ -81,7 +81,7 @@
 
 ## Metadata formats and standards
 
-* [DataCite](https://schema.datacite.org/) - Metadata schema developed by international community with increasing adoption by repositories
+* [DataCite](https://schema.datacite.org/) - Metadata schema developed by international community with increasing adoption by repositories.
 
 * [Data Catalog (DCAT)](https://www.w3.org/TR/vocab-dcat-2/) - RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 
@@ -139,18 +139,14 @@ Also see
 
 * [Citable code with Zenodo & GitHub](https://guides.github.com/activities/citable-code/) - Make GitHub repositories citable with Zenodo DOI.
 
-* [CodeMeta](https://codemeta.github.io/) - CodeMeta works on providing a minimal metadata schema for science software and code, in JSON and XML to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations. 
+* [CodeMeta](https://codemeta.github.io/) - Minimal metadata schema for science software and code, in JSON and XML to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations. 
 
-* [fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
+* [fossology](https://github.com/fossology/fossology) - Open source license compliance software system and toolkit. You can run license, copyright and export control scans from the command line.
 
 * [HERMES](https://github.com/hermes-hmc/workflow) - A CI based workflow to create and publish software publications to well known repositories. 
 
 * [SOMEF](https://github.com/KnowledgeCaptureAndDiscovery/somef) - Extract software publication metadata from README and other docs automatically using ML and other techniques to reduce the amount of boilerplate work for the developer.
 
-
-### Related research software lists
-* [awesome-research-software-registies](https://github.com/NLeSC/awesome-research-software-registries) - Awesome list for where one can register or upload research software.
-* [awesome-rse](https://github.com/hifis-net/awesome-rse) - An awesome collection of resources around research software engineering.
 
 ## Provenance tracking
 
@@ -162,7 +158,7 @@ Also see
 
 * [CWL](https://www.commonwl.org) - Domain-agnostic and community-driven open standard for description and execution of research workflows that supports provenance tracking ([CWLProv](https://github.com/common-workflow-language/cwltool/blob/main/CWLProv.rst)) in a standard-compliant way using the existing RO Crate, PROV and BagIt standards.
 
-* [PROV-O Primer](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) - An introduction to the data model of [Provenance Ontlogy (PROV-O)](https://www.w3.org/TR/2013/REC-prov-o-20130430/)
+* [PROV-O Primer](https://www.w3.org/TR/2013/NOTE-prov-primer-20130430/) - An introduction to the data model of [Provenance Ontlogy (PROV-O)](https://www.w3.org/TR/2013/REC-prov-o-20130430/).
 
 ### Related workflow tools lists
 There is overlap with these more general lists of workflow tools, but not every pipeline or workflow manager includes good provenance tracking.
@@ -195,12 +191,14 @@ There is overlap with these more general lists of workflow tools, but not every 
 ## Related lists
 Awesome lists related to several points.
 
-* [awesome-rse](https://github.com/hifis-net/awesome-rse) - An awesome list by HIFIS collecting information about research software engineering, touching FAIRness and sustainability
-* [awesome-rse-policies](https://github.com/hifis-net/awesome-rse-policies) - An awesome list by HIFIS collecting information about research software engineering policies, touching FAIRness and sustainability
+* [awesome-research-software-registies](https://github.com/NLeSC/awesome-research-software-registries) - Awesome list for where one can register or upload research software.
+* [awesome-rse](https://github.com/hifis-net/awesome-rse) - An awesome list by HIFIS collecting information about research software engineering, touching FAIRness and sustainability.
+* [awesome-rse-policies](https://github.com/hifis-net/awesome-rse-policies) - An awesome list by HIFIS collecting information about research software engineering policies, touching FAIRness and sustainability.
 
 * [Awesome-open-climate-science](https://github.com/pangeo-data/awesome-open-climate-science) - An open science related list specific to the domain of Atmospheric, Ocean, and Climate science.
 * [Awesome-open-science-software](https://github.com/INRIA/awesome-open-science-software) - A list of open science resources and software.
 * [Awesome Curated Tools](https://github.com/chow-petit/awesome-curated-tools) - A curated list of digital tools we use, ranging from accounting and data science to scientific research and liquid democracy.
+
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>

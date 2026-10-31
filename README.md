@@ -168,6 +168,8 @@ There is overlap with these more general lists of workflow tools, but not every 
 
 ## Metadata management
 
+* [METACO Codebook Generator](https://ersan.eu/MetaCo/free/codebook.html) - Free browser-based tool that turns a spreadsheet variable list (pasted, or .xlsx/CSV) into a human-readable codebook with value labels; no account and no data upload.
+
 ## Your own repository setup
 
 * [Dataverse](https://dataverse.org/) - Open source research data repository software [code](https://github.com/IQSS/dataverse).
